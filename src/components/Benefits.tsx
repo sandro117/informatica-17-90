@@ -74,7 +74,7 @@ const Benefits = () => {
         </h3>
         <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-16">
           Tenha acesso vitalício a mais de 1.000 programas premium por apenas{" "}
-          <span className="glow-text">R$14,90</span>.  
+          <span className="glow-text">R$17,99</span>.  
           Sem pegadinhas, sem mensalidades, sem renovações.
         </p>
 
