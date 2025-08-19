@@ -28,7 +28,7 @@ const Footer = () => {
             onClick={handlePurchase}
             className="bg-white hover:bg-gray-100 text-red-600 font-black text-xl md:text-2xl py-6 px-12 rounded-2xl transform hover:scale-105 transition-all duration-300 shadow-2xl mb-4"
           >
-            GARANTIR AGORA - R$14,90 VITALÍCIO
+            GARANTIR AGORA - R$17,99 VITALÍCIO
           </button>
           
           <p className="text-red-100 text-sm">
@@ -112,7 +112,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="md:flex justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 ZanTec. Todos os direitos reservados. CNPJ: 36.880.804/0001-64
+              © 2025 SanTec. Todos os direitos reservados. CNPJ: 36.880.804/0001-64
             </p>
             <p className="text-gray-400 text-sm">
               Desenvolvido para conversão máxima 🚀
