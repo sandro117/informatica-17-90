@@ -105,7 +105,7 @@ const Benefits = () => {
           </h3>
           <p className="text-xl text-orange-100 mb-8">
             Enquanto outros pagam R$200+ por mês em assinaturas, você paga{" "}
-            <span className="glow-text">R$17,97 uma única vez</span>.
+            <span className="glow-text">R$17,99 uma única vez</span>.
           </p>
           
           <button
