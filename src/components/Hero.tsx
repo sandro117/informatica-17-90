@@ -3,7 +3,7 @@ import { Download, Star } from 'lucide-react';
 
 const Hero = () => {
   const handlePurchase = () => {
-    window.open('https://pay.kirvano.com/2f021f96-e953-47b8-964f-1b8dc14629cd', '_blank');
+    window.open('https://pay.kirvano.com/1c0f2b8f-65ea-4417-b30d-b7a7f0417fc8', '_blank');
   };
 
   return (
