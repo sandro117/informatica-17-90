@@ -21,14 +21,14 @@ const Footer = () => {
           </p>
 
           <p className="text-xl text-red-100 mb-8">
-            Não perca esta oportunidade única de ter +1.000 programas premium por apenas R$14,90 vitalício
+            Não perca esta oportunidade única de ter +1.000 programas premium por apenas R$17,90 vitalício
           </p>
           
           <button
             onClick={handlePurchase}
             className="bg-white hover:bg-gray-100 text-red-600 font-black text-xl md:text-2xl py-6 px-12 rounded-2xl transform hover:scale-105 transition-all duration-300 shadow-2xl mb-4"
           >
-            GARANTIR AGORA - R$17,99 VITALÍCIO
+            GARANTIR AGORA - R$17,90 VITALÍCIO
           </button>
           
           <p className="text-red-100 text-sm">
