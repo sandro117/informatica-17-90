@@ -74,7 +74,7 @@ const Benefits = () => {
         </h3>
         <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-16">
           Tenha acesso vitalício a mais de 1.000 programas premium por apenas{" "}
-          <span className="glow-text">R$17,99</span>.  
+          <span className="glow-text">R$17,90</span>.  
           Sem pegadinhas, sem mensalidades, sem renovações.
         </p>
 
@@ -105,14 +105,14 @@ const Benefits = () => {
           </h3>
           <p className="text-xl text-orange-100 mb-8">
             Enquanto outros pagam R$200+ por mês em assinaturas, você paga{" "}
-            <span className="glow-text">R$17,99 uma única vez</span>.
+            <span className="glow-text">R$17,90 uma única vez</span>.
           </p>
           
           <button
             onClick={handlePurchase}
             className="bg-white hover:bg-gray-100 text-orange-600 font-black text-xl md:text-2xl py-6 px-12 rounded-2xl transform hover:scale-105 transition-all duration-300 shadow-2xl"
           >
-            SIM, EU QUERO ECONOMIZAR! - R$17,99
+            SIM, EU QUERO ECONOMIZAR! - R$17,90
           </button>
         </div>
       </div>
