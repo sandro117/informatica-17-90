@@ -101,7 +101,7 @@ const SocialProof = () => {
                 </div>
               </div>
               <p className="text-green-100 mb-4">
-                "Melhor compra que já fiz! Tenho todos os programas que preciso por R$14."
+                "Melhor compra que já fiz! Tenho todos os programas que preciso por R$17."
               </p>
               <div className="flex text-yellow-400">
                 ⭐⭐⭐⭐⭐
