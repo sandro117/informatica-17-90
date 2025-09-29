@@ -88,7 +88,7 @@ const Programs = () => {
 
         <div className="bg-gradient-to-r from-green-500 to-blue-500 rounded-3xl p-8 md:p-12 text-center">
           <h3 className="text-3xl md:text-4xl font-black text-white mb-4">
-            TUDO ISSO POR APENAS R$17,99 VITALÍCIO!
+            TUDO ISSO POR APENAS R$17,90 VITALÍCIO!
           </h3>
           <p className="text-xl text-green-100 mb-2">
             🔥 Economia de R$50.000+ em licenças originais
@@ -102,7 +102,7 @@ const Programs = () => {
             className="bg-white hover:bg-gray-100 text-green-600 font-black text-xl md:text-2xl py-6 px-12 rounded-2xl transform hover:scale-105 transition-all duration-300 shadow-2xl inline-flex items-center gap-3"
           >
             <Download className="w-8 h-8" />
-            GARANTIR MEUS PROGRAMAS - R$17,99
+            GARANTIR MEUS PROGRAMAS - R$17,90
           </button>
           
           <p className="text-green-100 text-sm mt-4">
