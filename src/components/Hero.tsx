@@ -41,7 +41,7 @@ const Hero = () => {
             <div className="bg-gradient-to-r from-red-500 to-red-600 rounded-2xl p-6 text-center transform hover:scale-105 transition-transform duration-300">
               <p className="text-sm text-red-100 mb-2">PREÇO ESPECIAL</p>
               <p className="text-4xl md:text-5xl font-black text-white mb-2">
-                APENAS R$17,99
+                APENAS R$17,90
               </p>
               <p className="text-red-100 font-medium">VITALÍCIO - PAGUE UMA VEZ SÓ!</p>
             </div>
@@ -51,7 +51,7 @@ const Hero = () => {
               className="w-full bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white font-black text-xl md:text-2xl py-6 px-8 rounded-2xl transform hover:scale-105 transition-all duration-300 shadow-2xl hover:shadow-green-500/25"
             >
               <Download className="w-8 h-8 mr-3 inline" />
-              COMPRAR AGORA - R$17,99
+              COMPRAR AGORA - R$17,90
             </button>
 
             <div className="grid grid-cols-3 gap-4 text-center">
